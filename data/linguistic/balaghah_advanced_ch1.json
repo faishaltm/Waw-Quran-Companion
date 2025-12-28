@@ -1,0 +1,293 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "analysis_type": "Advanced Balaghah Features (Test)",
+    "chapter_tested": 1,
+    "features": [
+      "iltifat",
+      "wasl_fasl",
+      "muqabala",
+      "istianaf",
+      "hadhf",
+      "tafsir_integration"
+    ],
+    "generated": "2025-11-13T13:20:18.905052"
+  },
+  "chapters": [
+    {
+      "chapter": 1,
+      "name_arabic": "الفاتحة",
+      "verses_count": 7,
+      "verses": [
+        {
+          "verse_number": 1,
+          "tafsir_context": {
+            "linguistic_features_summary": [
+              "no advanced features detected"
+            ],
+            "historical_context": {
+              "has_asbab_nuzul": true,
+              "occasions_count": 1,
+              "revelation_place": "makkah",
+              "revelation_order": 5,
+              "chronological_period": "early_meccan",
+              "asbab_nuzul_summary": [
+                {
+                  "verse_range": "1-7",
+                  "occasion_preview": "There is some scholarly disagreement concerning this Surah [i.e. concerning where it was revealed]; the\nmajority is however of the opinion that it was revealed in Mecca, one among the first Surahs of ..."
+                }
+              ]
+            },
+            "llm_interpretation_prompt": "Verse 1:1 - Integrated Balaghah and Tafsir Analysis:\n\nDetected linguistic features:\n\nHistorical context: 1 occasion(s) of revelation recorded.\nConsider how the historical situation influenced the rhetorical choices.\n\nRevelation context: Makkah, order #5\nConsider how the Meccan/Medinan context affects the rhetorical strategy.\n\nINTEGRATION QUESTION: How do the detected rhetorical devices (linguistic form) reflect and serve the revelation context (historical situation and audience)? What does this combination reveal about the verse's communicative purpose?"
+          }
+        },
+        {
+          "verse_number": 2,
+          "tafsir_context": {
+            "linguistic_features_summary": [
+              "no advanced features detected"
+            ],
+            "historical_context": {
+              "has_asbab_nuzul": true,
+              "occasions_count": 1,
+              "revelation_place": "makkah",
+              "revelation_order": 5,
+              "chronological_period": "early_meccan",
+              "asbab_nuzul_summary": [
+                {
+                  "verse_range": "1-7",
+                  "occasion_preview": "There is some scholarly disagreement concerning this Surah [i.e. concerning where it was revealed]; the\nmajority is however of the opinion that it was revealed in Mecca, one among the first Surahs of ..."
+                }
+              ]
+            },
+            "llm_interpretation_prompt": "Verse 1:2 - Integrated Balaghah and Tafsir Analysis:\n\nDetected linguistic features:\n\nHistorical context: 1 occasion(s) of revelation recorded.\nConsider how the historical situation influenced the rhetorical choices.\n\nRevelation context: Makkah, order #5\nConsider how the Meccan/Medinan context affects the rhetorical strategy.\n\nINTEGRATION QUESTION: How do the detected rhetorical devices (linguistic form) reflect and serve the revelation context (historical situation and audience)? What does this combination reveal about the verse's communicative purpose?"
+          }
+        },
+        {
+          "verse_number": 3,
+          "tafsir_context": {
+            "linguistic_features_summary": [
+              "no advanced features detected"
+            ],
+            "historical_context": {
+              "has_asbab_nuzul": true,
+              "occasions_count": 1,
+              "revelation_place": "makkah",
+              "revelation_order": 5,
+              "chronological_period": "early_meccan",
+              "asbab_nuzul_summary": [
+                {
+                  "verse_range": "1-7",
+                  "occasion_preview": "There is some scholarly disagreement concerning this Surah [i.e. concerning where it was revealed]; the\nmajority is however of the opinion that it was revealed in Mecca, one among the first Surahs of ..."
+                }
+              ]
+            },
+            "llm_interpretation_prompt": "Verse 1:3 - Integrated Balaghah and Tafsir Analysis:\n\nDetected linguistic features:\n\nHistorical context: 1 occasion(s) of revelation recorded.\nConsider how the historical situation influenced the rhetorical choices.\n\nRevelation context: Makkah, order #5\nConsider how the Meccan/Medinan context affects the rhetorical strategy.\n\nINTEGRATION QUESTION: How do the detected rhetorical devices (linguistic form) reflect and serve the revelation context (historical situation and audience)? What does this combination reveal about the verse's communicative purpose?"
+          }
+        },
+        {
+          "verse_number": 4,
+          "tafsir_context": {
+            "linguistic_features_summary": [
+              "no advanced features detected"
+            ],
+            "historical_context": {
+              "has_asbab_nuzul": true,
+              "occasions_count": 1,
+              "revelation_place": "makkah",
+              "revelation_order": 5,
+              "chronological_period": "early_meccan",
+              "asbab_nuzul_summary": [
+                {
+                  "verse_range": "1-7",
+                  "occasion_preview": "There is some scholarly disagreement concerning this Surah [i.e. concerning where it was revealed]; the\nmajority is however of the opinion that it was revealed in Mecca, one among the first Surahs of ..."
+                }
+              ]
+            },
+            "llm_interpretation_prompt": "Verse 1:4 - Integrated Balaghah and Tafsir Analysis:\n\nDetected linguistic features:\n\nHistorical context: 1 occasion(s) of revelation recorded.\nConsider how the historical situation influenced the rhetorical choices.\n\nRevelation context: Makkah, order #5\nConsider how the Meccan/Medinan context affects the rhetorical strategy.\n\nINTEGRATION QUESTION: How do the detected rhetorical devices (linguistic form) reflect and serve the revelation context (historical situation and audience)? What does this combination reveal about the verse's communicative purpose?"
+          }
+        },
+        {
+          "verse_number": 5,
+          "tafsir_context": {
+            "linguistic_features_summary": [
+              "no advanced features detected"
+            ],
+            "historical_context": {
+              "has_asbab_nuzul": true,
+              "occasions_count": 1,
+              "revelation_place": "makkah",
+              "revelation_order": 5,
+              "chronological_period": "early_meccan",
+              "asbab_nuzul_summary": [
+                {
+                  "verse_range": "1-7",
+                  "occasion_preview": "There is some scholarly disagreement concerning this Surah [i.e. concerning where it was revealed]; the\nmajority is however of the opinion that it was revealed in Mecca, one among the first Surahs of ..."
+                }
+              ]
+            },
+            "llm_interpretation_prompt": "Verse 1:5 - Integrated Balaghah and Tafsir Analysis:\n\nDetected linguistic features:\n\nHistorical context: 1 occasion(s) of revelation recorded.\nConsider how the historical situation influenced the rhetorical choices.\n\nRevelation context: Makkah, order #5\nConsider how the Meccan/Medinan context affects the rhetorical strategy.\n\nINTEGRATION QUESTION: How do the detected rhetorical devices (linguistic form) reflect and serve the revelation context (historical situation and audience)? What does this combination reveal about the verse's communicative purpose?"
+          }
+        },
+        {
+          "verse_number": 6,
+          "tafsir_context": {
+            "linguistic_features_summary": [
+              "no advanced features detected"
+            ],
+            "historical_context": {
+              "has_asbab_nuzul": true,
+              "occasions_count": 1,
+              "revelation_place": "makkah",
+              "revelation_order": 5,
+              "chronological_period": "early_meccan",
+              "asbab_nuzul_summary": [
+                {
+                  "verse_range": "1-7",
+                  "occasion_preview": "There is some scholarly disagreement concerning this Surah [i.e. concerning where it was revealed]; the\nmajority is however of the opinion that it was revealed in Mecca, one among the first Surahs of ..."
+                }
+              ]
+            },
+            "llm_interpretation_prompt": "Verse 1:6 - Integrated Balaghah and Tafsir Analysis:\n\nDetected linguistic features:\n\nHistorical context: 1 occasion(s) of revelation recorded.\nConsider how the historical situation influenced the rhetorical choices.\n\nRevelation context: Makkah, order #5\nConsider how the Meccan/Medinan context affects the rhetorical strategy.\n\nINTEGRATION QUESTION: How do the detected rhetorical devices (linguistic form) reflect and serve the revelation context (historical situation and audience)? What does this combination reveal about the verse's communicative purpose?"
+          }
+        },
+        {
+          "verse_number": 7,
+          "muqabala": {
+            "muqabala_patterns": [
+              {
+                "syntactic_pattern": [
+                  "P",
+                  "P"
+                ],
+                "structure1": {
+                  "words": [
+                    "مَغْضُوبِ",
+                    "هِمْ"
+                  ],
+                  "roots": [
+                    "غضب"
+                  ],
+                  "word_positions": [
+                    6,
+                    7
+                  ]
+                },
+                "structure2": {
+                  "words": [
+                    "ضَّآلِّينَ"
+                  ],
+                  "roots": [
+                    "ضلل"
+                  ],
+                  "word_positions": [
+                    8,
+                    9
+                  ]
+                },
+                "parallelism_type": "syntactic"
+              }
+            ],
+            "count": 1,
+            "llm_prompt": "Examine these parallel structures. Are the words semantically opposed (e.g., light/dark, believers/disbelievers)? If so, this is muqabala. Identify the contrasting elements and explain the rhetorical effect."
+          },
+          "hadhf": {
+            "hadhf_patterns": [
+              {
+                "type": "omitted_object",
+                "verb_word": 3,
+                "verb_text": "أَنْعَمْ",
+                "verb_root": "نعم",
+                "expected_argument": "direct object"
+              }
+            ],
+            "count": 1,
+            "llm_prompt": "These verbs/sentences appear to have missing grammatical elements (objects, predicates, etc.). From context, infer what is omitted and explain why it was omitted. Consider: brevity, emphasis, known context, or dramatic effect."
+          },
+          "tafsir_context": {
+            "linguistic_features_summary": [
+              "muqabala (1 patterns)",
+              "hadhf (1 ellipses)"
+            ],
+            "historical_context": {
+              "has_asbab_nuzul": true,
+              "occasions_count": 1,
+              "revelation_place": "makkah",
+              "revelation_order": 5,
+              "chronological_period": "early_meccan",
+              "asbab_nuzul_summary": [
+                {
+                  "verse_range": "1-7",
+                  "occasion_preview": "There is some scholarly disagreement concerning this Surah [i.e. concerning where it was revealed]; the\nmajority is however of the opinion that it was revealed in Mecca, one among the first Surahs of ..."
+                }
+              ]
+            },
+            "llm_interpretation_prompt": "Verse 1:7 - Integrated Balaghah and Tafsir Analysis:\n\nDetected linguistic features:\n- muqabala: Examine these parallel structures. Are the words semantically opposed (e.g., light/dark, believers/disbelievers)? If so, this is muqabala. Identify the contrasting elements and explain the rhetorical effect.\n- hadhf: These verbs/sentences appear to have missing grammatical elements (objects, predicates, etc.). From context, infer what is omitted and explain why it was omitted. Consider: brevity, emphasis, known context, or dramatic effect.\n\nHistorical context: 1 occasion(s) of revelation recorded.\nConsider how the historical situation influenced the rhetorical choices.\n\nRevelation context: Makkah, order #5\nConsider how the Meccan/Medinan context affects the rhetorical strategy.\n\nINTEGRATION QUESTION: How do the detected rhetorical devices (linguistic form) reflect and serve the revelation context (historical situation and audience)? What does this combination reveal about the verse's communicative purpose?"
+          }
+        }
+      ],
+      "iltifat": [
+        {
+          "type": "person_shift",
+          "detected_pattern": {
+            "from_person": "1st",
+            "to_person": "2nd",
+            "from_verse": 5,
+            "to_verse": 6,
+            "shift_description": "1st → 2nd"
+          },
+          "context": {
+            "chapter": 1,
+            "verse_range": "5-6"
+          },
+          "llm_prompt": "What is the rhetorical effect of shifting from 1st person to 2nd person between verses 5 and 6?"
+        },
+        {
+          "type": "tense_shift",
+          "detected_pattern": {
+            "from_tense": "imperfect",
+            "to_tense": "imperative",
+            "from_verse": 5,
+            "to_verse": 6,
+            "shift_description": "imperfect → imperative"
+          },
+          "context": {
+            "chapter": 1,
+            "verse_range": "5-6"
+          },
+          "llm_prompt": "What is the rhetorical effect of shifting from imperfect tense to imperative tense? Consider narrative vivacity or temporal emphasis."
+        },
+        {
+          "type": "tense_shift",
+          "detected_pattern": {
+            "from_tense": "imperative",
+            "to_tense": "perfect",
+            "from_verse": 6,
+            "to_verse": 7,
+            "shift_description": "imperative → perfect"
+          },
+          "context": {
+            "chapter": 1,
+            "verse_range": "6-7"
+          },
+          "llm_prompt": "What is the rhetorical effect of shifting from imperative tense to perfect tense? Consider narrative vivacity or temporal emphasis."
+        },
+        {
+          "type": "number_shift",
+          "detected_pattern": {
+            "from_number": "singular",
+            "to_number": "plural",
+            "from_verse": 6,
+            "to_verse": 7,
+            "shift_description": "singular → plural"
+          },
+          "context": {
+            "chapter": 1,
+            "verse_range": "6-7"
+          },
+          "llm_prompt": "What is the rhetorical effect of shifting from singular to plural? Consider inclusivity or specificity."
+        }
+      ]
+    }
+  ]
+}

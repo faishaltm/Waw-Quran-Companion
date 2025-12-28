@@ -1,0 +1,54 @@
+BACKUP SNAPSHOT - 2025-11-10
+=============================
+
+Purpose: Pre-morphology alignment freeze
+Status: BEFORE implementing verse-level alignment solution
+Related Issue: docs/MORPHOLOGY_TOKENIZATION_ISSUE.md
+
+Files Backed Up:
+----------------
+
+1. quran_text.json (1.7 MB)
+   - Tanzil Uthmani text
+   - 114 chapters, 6,236 verses
+   - 77,430 total words (whitespace-tokenized)
+   - Source: tanzil/quran-uthmani.xml
+   - Status: CANONICAL - This is our reference text
+
+2. morphology_full.json (28 MB)
+   - Current morphology mapping (KNOWN TO BE BROKEN)
+   - 77,429 entries (1 word short)
+   - Simple 1:1 mapping with last word skipped
+   - Status: INVALID - Has alignment issues at verse 67:23
+   - Issue: Morphology line 72707 (qwl IMPV) maps to wrong location
+
+Known Issues with morphology_full.json:
+----------------------------------------
+
+- Verse 67:23:1 should be "qwl IMPV" but shows PRON
+- Verse 67:24:1 should be "qwl IMPV" but shows PRON
+- Verse 67:26:1 should be "qwl IMPV" but shows PREV
+- Root cause: Tokenization mismatch (Tanzil 77,430 vs Corpus 77,429)
+- Impact: All positional root pattern detection fails
+
+Next Steps:
+-----------
+
+1. Build verse-level alignment engine
+2. Use Tanzil as canonical tokenization
+3. Map Corpus morphology per-verse (not global index)
+4. Handle split/merge cases with DP alignment
+5. Generate new morphology_aligned.json with explicit locations
+
+Restoration:
+------------
+
+To restore this state:
+  cp data/backup/2025-11-10/quran_text.json data/text/
+  cp data/backup/2025-11-10/morphology_full.json data/linguistic/
+
+Git Tag: morphology-pre-align-2025-11-10 (to be created)
+
+Reference:
+----------
+See docs/MORPHOLOGY_TOKENIZATION_ISSUE.md for complete analysis

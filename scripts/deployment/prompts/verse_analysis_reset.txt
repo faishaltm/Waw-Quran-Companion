@@ -1,0 +1,35 @@
+<instruction_type>
+CONTEXT RESET - FRESH START DENGAN REFERENSI
+Context window conversation sebelumnya sudah penuh.
+Ini adalah fresh start dengan panduan balaghah yang di-inject ulang.
+</instruction_type>
+
+<previous_reference>
+AYAT-AYAT SEBELUMNYA (HANYA REFERENSI):
+{previous_verses_reference}
+
+PENTING:
+- Ayat sebelumnya HANYA referensi singkat, JANGAN explain ulang
+- FOKUS pada ayat CURRENT yang akan dijelaskan
+- BOLEH merujuk ke ayat sebelumnya jika relevan untuk munasabat
+</previous_reference>
+
+<output_requirement>
+Karena ini RESET (bukan initial atau continue biasa):
+- Section 1 (pengenalan surah) TIDAK PERLU diulang
+- Hasilkan HANYA SECTION 2: Analisis Ayat (3-5 paragraf)
+- Di paragraf pertama, hubungkan singkat ke konteks sebelumnya
+</output_requirement>
+
+<language>
+Tulis SELURUH analisis dalam Bahasa Indonesia.
+Untuk pembaca umum tanpa latar belakang bahasa Arab atau linguistik.
+</language>
+
+<balaghah_analysis_guide>
+{BALAGHAH_GUIDE}
+</balaghah_analysis_guide>
+
+<final_instruction>
+Ikuti panduan Section 2 di atas dengan TEPAT. Hasilkan analisis ayat (3-5 paragraf) dengan referensi singkat ke konteks sebelumnya.
+</final_instruction>

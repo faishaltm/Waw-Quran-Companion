@@ -1,0 +1,15 @@
+# Core Dependencies
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.0.0
+python-multipart>=0.0.6
+
+# OpenAI
+openai>=1.0.0
+
+# Telegram Bot
+python-telegram-bot>=20.0
+requests>=2.31.0
+
+# Data processing
+python-dotenv>=1.0.0

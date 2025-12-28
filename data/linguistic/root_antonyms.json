@@ -1,0 +1,482 @@
+{
+  "metadata": {
+    "description": "Arabic root antonym pairs for tibaq (antithesis) detection in Quranic text",
+    "source": "Classical balaghah texts and Quranic rhetoric studies",
+    "total_pairs": 60,
+    "categories": ["sensory", "temporal", "existential", "evaluative", "spatial", "quantitative"]
+  },
+  "antonym_pairs": [
+    {
+      "root1": "نور",
+      "root2": "ظلم",
+      "meaning1": "light, illumination, enlightenment",
+      "meaning2": "darkness, obscurity, ignorance",
+      "opposition_type": "sensory",
+      "quran_examples": ["2:257", "6:1", "24:35", "14:1"]
+    },
+    {
+      "root1": "حيي",
+      "root2": "موت",
+      "meaning1": "life, living, to be alive",
+      "meaning2": "death, dying, to die",
+      "opposition_type": "existential",
+      "quran_examples": ["30:50", "2:28", "3:169", "30:19"]
+    },
+    {
+      "root1": "سمو",
+      "root2": "أرض",
+      "meaning1": "heaven, sky, heights",
+      "meaning2": "earth, ground",
+      "opposition_type": "spatial",
+      "quran_examples": ["6:1", "13:2", "24:35", "51:47"]
+    },
+    {
+      "root1": "خير",
+      "root2": "شرر",
+      "meaning1": "good, goodness, benefit",
+      "meaning2": "evil, wickedness, harm",
+      "opposition_type": "evaluative",
+      "quran_examples": ["7:157", "2:216", "4:79"]
+    },
+    {
+      "root1": "ضحك",
+      "root2": "بكي",
+      "meaning1": "laugh, laughter",
+      "meaning2": "cry, weep, weeping",
+      "opposition_type": "sensory",
+      "quran_examples": ["9:82", "53:43"]
+    },
+    {
+      "root1": "نفع",
+      "root2": "ضرر",
+      "meaning1": "benefit, profit, advantage",
+      "meaning2": "harm, damage, injury",
+      "opposition_type": "evaluative",
+      "quran_examples": ["7:188", "10:107", "2:219"]
+    },
+    {
+      "root1": "أول",
+      "root2": "آخر",
+      "meaning1": "first, beginning",
+      "meaning2": "last, end",
+      "opposition_type": "temporal",
+      "quran_examples": ["57:3"]
+    },
+    {
+      "root1": "ظهر",
+      "root2": "بطن",
+      "meaning1": "manifest, apparent, visible",
+      "meaning2": "hidden, concealed, inner",
+      "opposition_type": "sensory",
+      "quran_examples": ["57:3", "6:120"]
+    },
+    {
+      "root1": "علم",
+      "root2": "جهل",
+      "meaning1": "knowledge, to know",
+      "meaning2": "ignorance, not to know",
+      "opposition_type": "evaluative",
+      "quran_examples": ["39:9", "2:13"]
+    },
+    {
+      "root1": "هدي",
+      "root2": "ضلل",
+      "meaning1": "guidance, to guide",
+      "meaning2": "misguidance, to go astray",
+      "opposition_type": "evaluative",
+      "quran_examples": ["2:16", "7:186", "16:36"]
+    },
+    {
+      "root1": "أمر",
+      "root2": "نهي",
+      "meaning1": "command, to order",
+      "meaning2": "forbid, to prohibit",
+      "opposition_type": "evaluative",
+      "quran_examples": ["7:157", "3:104"]
+    },
+    {
+      "root1": "كثر",
+      "root2": "قلل",
+      "meaning1": "much, many, abundant",
+      "meaning2": "little, few, scarce",
+      "opposition_type": "quantitative",
+      "quran_examples": ["9:82", "2:249"]
+    },
+    {
+      "root1": "ليل",
+      "root2": "نهر",
+      "meaning1": "night",
+      "meaning2": "day",
+      "opposition_type": "temporal",
+      "quran_examples": ["2:164", "3:27", "92:1-2"]
+    },
+    {
+      "root1": "حسن",
+      "root2": "سوء",
+      "meaning1": "good, beautiful, excellent",
+      "meaning2": "bad, evil, ugly",
+      "opposition_type": "evaluative",
+      "quran_examples": ["16:125", "7:95"]
+    },
+    {
+      "root1": "رحم",
+      "root2": "عذب",
+      "meaning1": "mercy, compassion",
+      "meaning2": "punishment, torment",
+      "opposition_type": "evaluative",
+      "quran_examples": ["7:156", "6:12"]
+    },
+    {
+      "root1": "فوق",
+      "root2": "تحت",
+      "meaning1": "above, over",
+      "meaning2": "below, under",
+      "opposition_type": "spatial",
+      "quran_examples": ["2:26", "16:26"]
+    },
+    {
+      "root1": "قرب",
+      "root2": "بعد",
+      "meaning1": "near, close",
+      "meaning2": "far, distant",
+      "opposition_type": "spatial",
+      "quran_examples": ["2:186", "11:83"]
+    },
+    {
+      "root1": "شرق",
+      "root2": "غرب",
+      "meaning1": "east, sunrise",
+      "meaning2": "west, sunset",
+      "opposition_type": "spatial",
+      "quran_examples": ["2:115", "2:142", "70:40"]
+    },
+    {
+      "root1": "حرم",
+      "root2": "حلل",
+      "meaning1": "forbidden, prohibited, sacred",
+      "meaning2": "lawful, permitted",
+      "opposition_type": "evaluative",
+      "quran_examples": ["5:1", "7:157"]
+    },
+    {
+      "root1": "طيب",
+      "root2": "خبث",
+      "meaning1": "good, pure, wholesome",
+      "meaning2": "bad, impure, filthy",
+      "opposition_type": "evaluative",
+      "quran_examples": ["7:157", "3:179"]
+    },
+    {
+      "root1": "حق",
+      "root2": "بطل",
+      "meaning1": "truth, right, reality",
+      "meaning2": "falsehood, invalid, vanity",
+      "opposition_type": "evaluative",
+      "quran_examples": ["8:8", "17:81", "42:24"]
+    },
+    {
+      "root1": "صدق",
+      "root2": "كذب",
+      "meaning1": "truth, truthfulness",
+      "meaning2": "lie, falsehood",
+      "opposition_type": "evaluative",
+      "quran_examples": ["39:32", "3:95"]
+    },
+    {
+      "root1": "حب",
+      "root2": "بغض",
+      "meaning1": "love, affection",
+      "meaning2": "hate, aversion",
+      "opposition_type": "evaluative",
+      "quran_examples": ["3:31", "60:1"]
+    },
+    {
+      "root1": "فرح",
+      "root2": "حزن",
+      "meaning1": "joy, happiness",
+      "meaning2": "grief, sadness",
+      "opposition_type": "sensory",
+      "quran_examples": ["3:170", "9:92"]
+    },
+    {
+      "root1": "خوف",
+      "root2": "أمن",
+      "meaning1": "fear, anxiety",
+      "meaning2": "safety, security",
+      "opposition_type": "sensory",
+      "quran_examples": ["2:38", "106:4"]
+    },
+    {
+      "root1": "كفر",
+      "root2": "أمن",
+      "meaning1": "disbelief, ingratitude",
+      "meaning2": "belief, faith",
+      "opposition_type": "evaluative",
+      "quran_examples": ["2:257", "16:106"]
+    },
+    {
+      "root1": "سمع",
+      "root2": "صمم",
+      "meaning1": "hearing, to hear",
+      "meaning2": "deafness, to be deaf",
+      "opposition_type": "sensory",
+      "quran_examples": ["2:171", "8:22"]
+    },
+    {
+      "root1": "بصر",
+      "root2": "عمي",
+      "meaning1": "sight, to see",
+      "meaning2": "blindness, to be blind",
+      "opposition_type": "sensory",
+      "quran_examples": ["2:17", "22:46"]
+    },
+    {
+      "root1": "ذكر",
+      "root2": "نسي",
+      "meaning1": "remember, mention",
+      "meaning2": "forget, neglect",
+      "opposition_type": "evaluative",
+      "quran_examples": ["2:152", "18:24"]
+    },
+    {
+      "root1": "شكر",
+      "root2": "كفر",
+      "meaning1": "gratitude, thanks",
+      "meaning2": "ingratitude, denial",
+      "opposition_type": "evaluative",
+      "quran_examples": ["2:152", "14:7"]
+    },
+    {
+      "root1": "حيي",
+      "root2": "خزي",
+      "meaning1": "modesty, shyness, life",
+      "meaning2": "shame, disgrace",
+      "opposition_type": "evaluative",
+      "quran_examples": ["2:74", "11:78"]
+    },
+    {
+      "root1": "صبر",
+      "root2": "جزع",
+      "meaning1": "patience, endurance",
+      "meaning2": "impatience, restlessness",
+      "opposition_type": "evaluative",
+      "quran_examples": ["70:19-20"]
+    },
+    {
+      "root1": "رضي",
+      "root2": "سخط",
+      "meaning1": "pleasure, satisfaction",
+      "meaning2": "anger, wrath",
+      "opposition_type": "evaluative",
+      "quran_examples": ["3:162", "9:55"]
+    },
+    {
+      "root1": "زيد",
+      "root2": "نقص",
+      "meaning1": "increase, addition",
+      "meaning2": "decrease, diminution",
+      "opposition_type": "quantitative",
+      "quran_examples": ["2:245", "14:34"]
+    },
+    {
+      "root1": "رفع",
+      "root2": "خفض",
+      "meaning1": "raise, elevate",
+      "meaning2": "lower, humble",
+      "opposition_type": "spatial",
+      "quran_examples": ["56:3", "2:127"]
+    },
+    {
+      "root1": "جمع",
+      "root2": "فرق",
+      "meaning1": "gather, collect, unite",
+      "meaning2": "separate, divide, scatter",
+      "opposition_type": "spatial",
+      "quran_examples": ["3:9", "42:7"]
+    },
+    {
+      "root1": "قدم",
+      "root2": "أخر",
+      "meaning1": "advance, put forward",
+      "meaning2": "delay, put back",
+      "opposition_type": "temporal",
+      "quran_examples": ["71:4", "74:37"]
+    },
+    {
+      "root1": "حل",
+      "root2": "عقد",
+      "meaning1": "untie, loosen, solve",
+      "meaning2": "tie, bind, contract",
+      "opposition_type": "evaluative",
+      "quran_examples": ["2:235", "20:27"]
+    },
+    {
+      "root1": "فتح",
+      "root2": "غلق",
+      "meaning1": "open, conquer",
+      "meaning2": "close, shut",
+      "opposition_type": "spatial",
+      "quran_examples": ["39:71", "39:73"]
+    },
+    {
+      "root1": "يمن",
+      "root2": "شمل",
+      "meaning1": "right (hand/side)",
+      "meaning2": "left (hand/side)",
+      "opposition_type": "spatial",
+      "quran_examples": ["56:8-9", "56:27"]
+    },
+    {
+      "root1": "ذكر",
+      "root2": "أنث",
+      "meaning1": "male, masculine",
+      "meaning2": "female, feminine",
+      "opposition_type": "existential",
+      "quran_examples": ["3:36", "53:45"]
+    },
+    {
+      "root1": "حر",
+      "root2": "عبد",
+      "meaning1": "free person",
+      "meaning2": "slave, servant",
+      "opposition_type": "existential",
+      "quran_examples": ["2:178", "16:75"]
+    },
+    {
+      "root1": "حرر",
+      "root2": "برد",
+      "meaning1": "heat, hot",
+      "meaning2": "cold, cool",
+      "opposition_type": "sensory",
+      "quran_examples": ["16:81", "21:69"]
+    },
+    {
+      "root1": "صعد",
+      "root2": "نزل",
+      "meaning1": "ascend, go up",
+      "meaning2": "descend, go down",
+      "opposition_type": "spatial",
+      "quran_examples": ["6:125", "32:5"]
+    },
+    {
+      "root1": "بدأ",
+      "root2": "عود",
+      "meaning1": "begin, originate",
+      "meaning2": "return, repeat",
+      "opposition_type": "temporal",
+      "quran_examples": ["29:19", "85:13"]
+    },
+    {
+      "root1": "قوي",
+      "root2": "ضعف",
+      "meaning1": "strength, power",
+      "meaning2": "weakness, feebleness",
+      "opposition_type": "evaluative",
+      "quran_examples": ["30:54", "8:66"]
+    },
+    {
+      "root1": "غني",
+      "root2": "فقر",
+      "meaning1": "richness, wealth",
+      "meaning2": "poverty, need",
+      "opposition_type": "evaluative",
+      "quran_examples": ["2:267", "47:38"]
+    },
+    {
+      "root1": "عزز",
+      "root2": "ذلل",
+      "meaning1": "honor, might, glory",
+      "meaning2": "humiliation, disgrace",
+      "opposition_type": "evaluative",
+      "quran_examples": ["3:26", "63:8"]
+    },
+    {
+      "root1": "حكم",
+      "root2": "جهل",
+      "meaning1": "wisdom, judgment",
+      "meaning2": "ignorance, foolishness",
+      "opposition_type": "evaluative",
+      "quran_examples": ["5:50", "33:33"]
+    },
+    {
+      "root1": "يسر",
+      "root2": "عسر",
+      "meaning1": "ease, facility",
+      "meaning2": "difficulty, hardship",
+      "opposition_type": "evaluative",
+      "quran_examples": ["94:5-6", "2:185"]
+    },
+    {
+      "root1": "سبق",
+      "root2": "لحق",
+      "meaning1": "precede, go before",
+      "meaning2": "follow, come after",
+      "opposition_type": "temporal",
+      "quran_examples": ["36:40", "69:17"]
+    },
+    {
+      "root1": "قبل",
+      "root2": "بعد",
+      "meaning1": "before, prior",
+      "meaning2": "after, later",
+      "opposition_type": "temporal",
+      "quran_examples": ["30:4", "3:144"]
+    },
+    {
+      "root1": "دخل",
+      "root2": "خرج",
+      "meaning1": "enter, go in",
+      "meaning2": "exit, go out",
+      "opposition_type": "spatial",
+      "quran_examples": ["2:189", "24:27"]
+    },
+    {
+      "root1": "جنن",
+      "root2": "نور",
+      "meaning1": "jinn, hidden beings",
+      "meaning2": "human, light/evident beings",
+      "opposition_type": "existential",
+      "quran_examples": ["7:38", "55:33"]
+    },
+    {
+      "root1": "صلح",
+      "root2": "فسد",
+      "meaning1": "righteousness, reform",
+      "meaning2": "corruption, mischief",
+      "opposition_type": "evaluative",
+      "quran_examples": ["2:11", "7:56"]
+    },
+    {
+      "root1": "حمد",
+      "root2": "ذمم",
+      "meaning1": "praise, commendation",
+      "meaning2": "blame, censure",
+      "opposition_type": "evaluative",
+      "quran_examples": ["17:111", "68:49"]
+    },
+    {
+      "root1": "ملك",
+      "root2": "إنس",
+      "meaning1": "angel",
+      "meaning2": "human, mankind",
+      "opposition_type": "existential",
+      "quran_examples": ["2:34", "17:95"]
+    },
+    {
+      "root1": "بيض",
+      "root2": "سود",
+      "meaning1": "white, whiteness",
+      "meaning2": "black, blackness",
+      "opposition_type": "sensory",
+      "quran_examples": ["2:187", "3:106"]
+    },
+    {
+      "root1": "جعل",
+      "root2": "منع",
+      "meaning1": "make, give, create",
+      "meaning2": "prevent, withhold",
+      "opposition_type": "evaluative",
+      "quran_examples": ["17:20", "68:12"]
+    }
+  ]
+}

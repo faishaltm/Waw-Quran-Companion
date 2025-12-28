@@ -1,0 +1,121 @@
+QURANIC ARABIC CORPUS - FULL DATASET INVENTORY
+===============================================
+
+Location: D:\Script\Project\quran\quranic-corpus-full\
+Date: November 6, 2025
+Version: 0.4
+Status: COMPLETE
+
+FILES
+-----
+
+1. quranic-corpus-dependencies-full.txt (1.7MB, 37,420 lines)
+   - Dependency treebank with parent-child relationships
+   - 47 relation types with Arabic labels
+   - Format: CHILD | PARENT | RELATION | ARABIC | ENGLISH
+   - Example: (1:1:3) → (1:1:2) | adj | صفة | Adjective
+
+2. quranic-corpus-morphology-full.txt (2.6MB, 77,429 lines)
+   - Complete morphological analysis of every word
+   - POS tags, lemmas, roots, gender, number, case
+   - Format: Features space-delimited on single line
+   - Example: bi+ POS:N LEM:{som ROOT:smw M GEN
+
+3. quranic-corpus-named-entities-full.txt (130KB, 5,494 lines)
+   - Named entity and concept annotations
+   - Links words to semantic concepts
+   - Format: LOCATION | TYPE:CONCEPT_ID
+   - Example: (1:1:2:1) | CON:allah
+
+4. quranic-corpus-lemmas.txt (40KB, 1,593 lines)
+   - Complete vocabulary of the Quran
+   - One lemma per line in Buckwalter
+   - Example: {som, {ll~ah, r~aHoma`n
+
+5. quranic-corpus-pause-marks.txt (38KB, 4,359 lines)
+   - Tajweed recitation pause marks
+   - Format: LOCATION | PAUSE_TYPE
+   - Example: (1:1:4) | m
+
+6. README.md (20KB)
+   - Comprehensive documentation
+   - Data format specifications
+   - Buckwalter transliteration table
+   - Usage examples
+   - 47 dependency relation types
+   - Academic citations
+
+STATISTICS
+----------
+
+Coverage:
+  Chapters:     114 (complete Quran)
+  Verses:       6,236
+  Words:        77,429
+  Lemmas:       1,593 unique
+
+Annotations:
+  Dependencies:       37,420 relationships
+  Morphology:         77,429 segments (100%)
+  Named Entities:     5,494 annotations
+  Pause Marks:        4,359 marks
+  Total Data Lines:   126,303
+
+DATA QUALITY
+------------
+
+✅ Morphology:        100% complete (all 77,429 words)
+⚠️  Dependencies:      ~14% manually annotated (11,000 words)
+✅ Named Entities:    100% complete
+✅ Pause Marks:       100% complete
+✅ Lemmas:            100% complete vocabulary
+
+FORMAT
+------
+
+Encoding:      UTF-8
+Delimiter:     Tab-separated (TSV)
+Location Ref:  (chapter:verse:word:segment)
+Transliteration: Buckwalter ASCII
+
+USAGE
+-----
+
+Quick Start:
+  1. Load TSV files into pandas/database
+  2. Use location references to link data
+  3. Refer to README.md for format details
+
+Search Examples:
+  - Find root "smw": grep "ROOT:smw" quranic-corpus-morphology-full.txt
+  - Find subjects:   grep "subj" quranic-corpus-dependencies-full.txt
+  - Find Allah refs: grep "allah" quranic-corpus-named-entities-full.txt
+
+SOURCE
+------
+
+Original:  Quranic Arabic Corpus (corpus.quran.com)
+Project:   University of Leeds, Language Research Group
+Lead:      Dr. Kais Dukes
+Archive:   archive.org/details/quranicarabiccorpus
+License:   GNU General Public License v3
+Version:   0.4 (2011)
+
+EXTRACTION
+----------
+
+Date:      November 6, 2025
+Method:    Automated parsing from WAR file
+Tools:     Python 3, parse_syntax_file.py
+Time:      ~2 minutes
+Errors:    0
+Status:    ✅ COMPLETE
+
+FILES READY FOR USE
+-------------------
+
+All files are tab-delimited, UTF-8 encoded, and ready to import
+into any database, spreadsheet, or analysis tool.
+
+For complete documentation, see README.md
+

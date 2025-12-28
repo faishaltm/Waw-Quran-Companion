@@ -1,0 +1,11 @@
+{
+  "surah": 0,
+  "last_ruku_completed": 0,
+  "last_verse_completed": 0,
+  "accumulated_summary": {
+    "themes": ["Theme 1", "Theme 2"],
+    "balaghah_correlations": [],
+    "unresolved_patterns": [],
+    "key_terms": []
+  }
+}

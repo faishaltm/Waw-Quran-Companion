@@ -1,0 +1,914 @@
+{
+  "1": {
+    "chapter_number": 1,
+    "name_arabic": "ٱلْفَاتِحَةِ",
+    "revelation_place": "makkah",
+    "revelation_order": 5,
+    "verses_count": 7,
+    "pages_count": 1
+  },
+  "2": {
+    "chapter_number": 2,
+    "name_arabic": "ٱلْبَقَرَةِ",
+    "revelation_place": "madinah",
+    "revelation_order": 87,
+    "verses_count": 286,
+    "pages_count": 48
+  },
+  "3": {
+    "chapter_number": 3,
+    "name_arabic": "ءَالِ عِمْرَٰنَ",
+    "revelation_place": "madinah",
+    "revelation_order": 89,
+    "verses_count": 200,
+    "pages_count": 27
+  },
+  "4": {
+    "chapter_number": 4,
+    "name_arabic": "ٱلنِّسَآءِ",
+    "revelation_place": "madinah",
+    "revelation_order": 92,
+    "verses_count": 176,
+    "pages_count": 30
+  },
+  "5": {
+    "chapter_number": 5,
+    "name_arabic": "ٱلْمَآئِدَةِ",
+    "revelation_place": "madinah",
+    "revelation_order": 112,
+    "verses_count": 120,
+    "pages_count": 22
+  },
+  "6": {
+    "chapter_number": 6,
+    "name_arabic": "ٱلْأَنْعَـٰمِ",
+    "revelation_place": "makkah",
+    "revelation_order": 55,
+    "verses_count": 165,
+    "pages_count": 23
+  },
+  "7": {
+    "chapter_number": 7,
+    "name_arabic": "ٱلْأَعْرَافِ",
+    "revelation_place": "makkah",
+    "revelation_order": 39,
+    "verses_count": 206,
+    "pages_count": 26
+  },
+  "8": {
+    "chapter_number": 8,
+    "name_arabic": "ٱلْأَنفَالِ",
+    "revelation_place": "madinah",
+    "revelation_order": 88,
+    "verses_count": 75,
+    "pages_count": 10
+  },
+  "9": {
+    "chapter_number": 9,
+    "name_arabic": "ٱلتَّوْبَةِ",
+    "revelation_place": "madinah",
+    "revelation_order": 113,
+    "verses_count": 129,
+    "pages_count": 21
+  },
+  "10": {
+    "chapter_number": 10,
+    "name_arabic": "يُونُسَ",
+    "revelation_place": "makkah",
+    "revelation_order": 51,
+    "verses_count": 109,
+    "pages_count": 14
+  },
+  "11": {
+    "chapter_number": 11,
+    "name_arabic": "هُودٍ",
+    "revelation_place": "makkah",
+    "revelation_order": 52,
+    "verses_count": 123,
+    "pages_count": 15
+  },
+  "12": {
+    "chapter_number": 12,
+    "name_arabic": "يُوسُفَ",
+    "revelation_place": "makkah",
+    "revelation_order": 53,
+    "verses_count": 111,
+    "pages_count": 14
+  },
+  "13": {
+    "chapter_number": 13,
+    "name_arabic": "ٱلرَّعْدِ",
+    "revelation_place": "madinah",
+    "revelation_order": 96,
+    "verses_count": 43,
+    "pages_count": 7
+  },
+  "14": {
+    "chapter_number": 14,
+    "name_arabic": "إِبْرَٰهِيمَ",
+    "revelation_place": "makkah",
+    "revelation_order": 72,
+    "verses_count": 52,
+    "pages_count": 7
+  },
+  "15": {
+    "chapter_number": 15,
+    "name_arabic": "ٱلْحِجْرِ",
+    "revelation_place": "makkah",
+    "revelation_order": 54,
+    "verses_count": 99,
+    "pages_count": 6
+  },
+  "16": {
+    "chapter_number": 16,
+    "name_arabic": "ٱلنَّحْلِ",
+    "revelation_place": "makkah",
+    "revelation_order": 70,
+    "verses_count": 128,
+    "pages_count": 15
+  },
+  "17": {
+    "chapter_number": 17,
+    "name_arabic": "ٱلْإِسْرَاءِ",
+    "revelation_place": "makkah",
+    "revelation_order": 50,
+    "verses_count": 111,
+    "pages_count": 12
+  },
+  "18": {
+    "chapter_number": 18,
+    "name_arabic": "ٱلْكَهْفِ",
+    "revelation_place": "makkah",
+    "revelation_order": 69,
+    "verses_count": 110,
+    "pages_count": 12
+  },
+  "19": {
+    "chapter_number": 19,
+    "name_arabic": "مَرْيَمَ",
+    "revelation_place": "makkah",
+    "revelation_order": 44,
+    "verses_count": 98,
+    "pages_count": 8
+  },
+  "20": {
+    "chapter_number": 20,
+    "name_arabic": "طه",
+    "revelation_place": "makkah",
+    "revelation_order": 45,
+    "verses_count": 135,
+    "pages_count": 10
+  },
+  "21": {
+    "chapter_number": 21,
+    "name_arabic": "ٱلْأَنۢبِيَآءِ",
+    "revelation_place": "makkah",
+    "revelation_order": 73,
+    "verses_count": 112,
+    "pages_count": 10
+  },
+  "22": {
+    "chapter_number": 22,
+    "name_arabic": "ٱلْحَجِّ",
+    "revelation_place": "madinah",
+    "revelation_order": 103,
+    "verses_count": 78,
+    "pages_count": 10
+  },
+  "23": {
+    "chapter_number": 23,
+    "name_arabic": "ٱلْمُؤْمِنُونَ",
+    "revelation_place": "makkah",
+    "revelation_order": 74,
+    "verses_count": 118,
+    "pages_count": 8
+  },
+  "24": {
+    "chapter_number": 24,
+    "name_arabic": "ٱلنُّورِ",
+    "revelation_place": "madinah",
+    "revelation_order": 102,
+    "verses_count": 64,
+    "pages_count": 10
+  },
+  "25": {
+    "chapter_number": 25,
+    "name_arabic": "ٱلْفُرْقَانِ",
+    "revelation_place": "makkah",
+    "revelation_order": 42,
+    "verses_count": 77,
+    "pages_count": 8
+  },
+  "26": {
+    "chapter_number": 26,
+    "name_arabic": "ٱلشُّعَرَآءِ",
+    "revelation_place": "makkah",
+    "revelation_order": 47,
+    "verses_count": 227,
+    "pages_count": 10
+  },
+  "27": {
+    "chapter_number": 27,
+    "name_arabic": "ٱلنَّمْلِ",
+    "revelation_place": "makkah",
+    "revelation_order": 48,
+    "verses_count": 93,
+    "pages_count": 9
+  },
+  "28": {
+    "chapter_number": 28,
+    "name_arabic": "ٱلْقَصَصِ",
+    "revelation_place": "makkah",
+    "revelation_order": 49,
+    "verses_count": 88,
+    "pages_count": 12
+  },
+  "29": {
+    "chapter_number": 29,
+    "name_arabic": "ٱلْعَنكَبُوتِ",
+    "revelation_place": "makkah",
+    "revelation_order": 85,
+    "verses_count": 69,
+    "pages_count": 9
+  },
+  "30": {
+    "chapter_number": 30,
+    "name_arabic": "ٱلرُّومِ",
+    "revelation_place": "makkah",
+    "revelation_order": 84,
+    "verses_count": 60,
+    "pages_count": 7
+  },
+  "31": {
+    "chapter_number": 31,
+    "name_arabic": "لُقْمَـٰنَ",
+    "revelation_place": "makkah",
+    "revelation_order": 57,
+    "verses_count": 34,
+    "pages_count": 4
+  },
+  "32": {
+    "chapter_number": 32,
+    "name_arabic": "ٱلسَّجْدَةِ",
+    "revelation_place": "makkah",
+    "revelation_order": 75,
+    "verses_count": 30,
+    "pages_count": 3
+  },
+  "33": {
+    "chapter_number": 33,
+    "name_arabic": "ٱلْأَحْزَابِ",
+    "revelation_place": "madinah",
+    "revelation_order": 90,
+    "verses_count": 73,
+    "pages_count": 10
+  },
+  "34": {
+    "chapter_number": 34,
+    "name_arabic": "سَبَإٍ",
+    "revelation_place": "makkah",
+    "revelation_order": 58,
+    "verses_count": 54,
+    "pages_count": 7
+  },
+  "35": {
+    "chapter_number": 35,
+    "name_arabic": "فَاطِرٍ",
+    "revelation_place": "makkah",
+    "revelation_order": 43,
+    "verses_count": 45,
+    "pages_count": 7
+  },
+  "36": {
+    "chapter_number": 36,
+    "name_arabic": "يسٓ",
+    "revelation_place": "makkah",
+    "revelation_order": 41,
+    "verses_count": 83,
+    "pages_count": 6
+  },
+  "37": {
+    "chapter_number": 37,
+    "name_arabic": "ٱلصَّـٰٓفَّـٰتِ",
+    "revelation_place": "makkah",
+    "revelation_order": 56,
+    "verses_count": 182,
+    "pages_count": 7
+  },
+  "38": {
+    "chapter_number": 38,
+    "name_arabic": "صٓ",
+    "revelation_place": "makkah",
+    "revelation_order": 38,
+    "verses_count": 88,
+    "pages_count": 6
+  },
+  "39": {
+    "chapter_number": 39,
+    "name_arabic": "ٱلزُّمَرِ",
+    "revelation_place": "makkah",
+    "revelation_order": 59,
+    "verses_count": 75,
+    "pages_count": 10
+  },
+  "40": {
+    "chapter_number": 40,
+    "name_arabic": "غَافِرٍ",
+    "revelation_place": "makkah",
+    "revelation_order": 60,
+    "verses_count": 85,
+    "pages_count": 10
+  },
+  "41": {
+    "chapter_number": 41,
+    "name_arabic": "فُصِّلَتْ",
+    "revelation_place": "makkah",
+    "revelation_order": 61,
+    "verses_count": 54,
+    "pages_count": 6
+  },
+  "42": {
+    "chapter_number": 42,
+    "name_arabic": "ٱلشُّورَىٰ",
+    "revelation_place": "makkah",
+    "revelation_order": 62,
+    "verses_count": 53,
+    "pages_count": 7
+  },
+  "43": {
+    "chapter_number": 43,
+    "name_arabic": "ٱلزُّخْرُفِ",
+    "revelation_place": "makkah",
+    "revelation_order": 63,
+    "verses_count": 89,
+    "pages_count": 7
+  },
+  "44": {
+    "chapter_number": 44,
+    "name_arabic": "ٱلدُّخَانِ",
+    "revelation_place": "makkah",
+    "revelation_order": 64,
+    "verses_count": 59,
+    "pages_count": 3
+  },
+  "45": {
+    "chapter_number": 45,
+    "name_arabic": "ٱلْجَاثِيَةِ",
+    "revelation_place": "makkah",
+    "revelation_order": 65,
+    "verses_count": 37,
+    "pages_count": 4
+  },
+  "46": {
+    "chapter_number": 46,
+    "name_arabic": "ٱلْأَحْقَافِ",
+    "revelation_place": "makkah",
+    "revelation_order": 66,
+    "verses_count": 35,
+    "pages_count": 5
+  },
+  "47": {
+    "chapter_number": 47,
+    "name_arabic": "مُحَمَّدٍ",
+    "revelation_place": "madinah",
+    "revelation_order": 95,
+    "verses_count": 38,
+    "pages_count": 4
+  },
+  "48": {
+    "chapter_number": 48,
+    "name_arabic": "ٱلْفَتْحِ",
+    "revelation_place": "madinah",
+    "revelation_order": 111,
+    "verses_count": 29,
+    "pages_count": 5
+  },
+  "49": {
+    "chapter_number": 49,
+    "name_arabic": "ٱلْحُجُرَٰتِ",
+    "revelation_place": "madinah",
+    "revelation_order": 106,
+    "verses_count": 18,
+    "pages_count": 3
+  },
+  "50": {
+    "chapter_number": 50,
+    "name_arabic": "قٓ",
+    "revelation_place": "makkah",
+    "revelation_order": 34,
+    "verses_count": 45,
+    "pages_count": 3
+  },
+  "51": {
+    "chapter_number": 51,
+    "name_arabic": "ٱلذَّٰرِيَـٰتِ",
+    "revelation_place": "makkah",
+    "revelation_order": 67,
+    "verses_count": 60,
+    "pages_count": 4
+  },
+  "52": {
+    "chapter_number": 52,
+    "name_arabic": "ٱلطُّورِ",
+    "revelation_place": "makkah",
+    "revelation_order": 76,
+    "verses_count": 49,
+    "pages_count": 3
+  },
+  "53": {
+    "chapter_number": 53,
+    "name_arabic": "ٱلنَّجْمِ",
+    "revelation_place": "makkah",
+    "revelation_order": 23,
+    "verses_count": 62,
+    "pages_count": 3
+  },
+  "54": {
+    "chapter_number": 54,
+    "name_arabic": "ٱلْقَمَرِ",
+    "revelation_place": "makkah",
+    "revelation_order": 37,
+    "verses_count": 55,
+    "pages_count": 4
+  },
+  "55": {
+    "chapter_number": 55,
+    "name_arabic": "ٱلرَّحْمَـٰنِ",
+    "revelation_place": "madinah",
+    "revelation_order": 97,
+    "verses_count": 78,
+    "pages_count": 4
+  },
+  "56": {
+    "chapter_number": 56,
+    "name_arabic": "ٱلْوَاقِعَةِ",
+    "revelation_place": "makkah",
+    "revelation_order": 46,
+    "verses_count": 96,
+    "pages_count": 4
+  },
+  "57": {
+    "chapter_number": 57,
+    "name_arabic": "ٱلْحَدِيدِ",
+    "revelation_place": "madinah",
+    "revelation_order": 94,
+    "verses_count": 29,
+    "pages_count": 5
+  },
+  "58": {
+    "chapter_number": 58,
+    "name_arabic": "ٱلْمُجَادِلَةِ",
+    "revelation_place": "madinah",
+    "revelation_order": 105,
+    "verses_count": 22,
+    "pages_count": 4
+  },
+  "59": {
+    "chapter_number": 59,
+    "name_arabic": "ٱلْحَشْرِ",
+    "revelation_place": "madinah",
+    "revelation_order": 101,
+    "verses_count": 24,
+    "pages_count": 4
+  },
+  "60": {
+    "chapter_number": 60,
+    "name_arabic": "ٱلْمُمْتَحَنَةِ",
+    "revelation_place": "madinah",
+    "revelation_order": 91,
+    "verses_count": 13,
+    "pages_count": 3
+  },
+  "61": {
+    "chapter_number": 61,
+    "name_arabic": "ٱلصَّفِّ",
+    "revelation_place": "madinah",
+    "revelation_order": 109,
+    "verses_count": 14,
+    "pages_count": 2
+  },
+  "62": {
+    "chapter_number": 62,
+    "name_arabic": "ٱلْجُمُعَةِ",
+    "revelation_place": "madinah",
+    "revelation_order": 110,
+    "verses_count": 11,
+    "pages_count": 2
+  },
+  "63": {
+    "chapter_number": 63,
+    "name_arabic": "ٱلْمُنَـٰفِقُونَ",
+    "revelation_place": "madinah",
+    "revelation_order": 104,
+    "verses_count": 11,
+    "pages_count": 2
+  },
+  "64": {
+    "chapter_number": 64,
+    "name_arabic": "ٱلتَّغَابُنِ",
+    "revelation_place": "madinah",
+    "revelation_order": 108,
+    "verses_count": 18,
+    "pages_count": 2
+  },
+  "65": {
+    "chapter_number": 65,
+    "name_arabic": "ٱلطَّلَـٰقَ",
+    "revelation_place": "madinah",
+    "revelation_order": 99,
+    "verses_count": 12,
+    "pages_count": 2
+  },
+  "66": {
+    "chapter_number": 66,
+    "name_arabic": "ٱلتَّحْرِيمِ",
+    "revelation_place": "madinah",
+    "revelation_order": 107,
+    "verses_count": 12,
+    "pages_count": 2
+  },
+  "67": {
+    "chapter_number": 67,
+    "name_arabic": "ٱلْمُلْكِ",
+    "revelation_place": "makkah",
+    "revelation_order": 77,
+    "verses_count": 30,
+    "pages_count": 3
+  },
+  "68": {
+    "chapter_number": 68,
+    "name_arabic": "ٱلْقَلَمِ",
+    "revelation_place": "makkah",
+    "revelation_order": 2,
+    "verses_count": 52,
+    "pages_count": 3
+  },
+  "69": {
+    "chapter_number": 69,
+    "name_arabic": "ٱلْحَآقَّةِ",
+    "revelation_place": "makkah",
+    "revelation_order": 78,
+    "verses_count": 52,
+    "pages_count": 3
+  },
+  "70": {
+    "chapter_number": 70,
+    "name_arabic": "ٱلْمَعَارِجِ",
+    "revelation_place": "makkah",
+    "revelation_order": 79,
+    "verses_count": 44,
+    "pages_count": 3
+  },
+  "71": {
+    "chapter_number": 71,
+    "name_arabic": "نُوحٍ",
+    "revelation_place": "makkah",
+    "revelation_order": 71,
+    "verses_count": 28,
+    "pages_count": 2
+  },
+  "72": {
+    "chapter_number": 72,
+    "name_arabic": "ٱلْجِنِّ",
+    "revelation_place": "makkah",
+    "revelation_order": 40,
+    "verses_count": 28,
+    "pages_count": 2
+  },
+  "73": {
+    "chapter_number": 73,
+    "name_arabic": "ٱلْمُزَّمِّلِ",
+    "revelation_place": "makkah",
+    "revelation_order": 3,
+    "verses_count": 20,
+    "pages_count": 2
+  },
+  "74": {
+    "chapter_number": 74,
+    "name_arabic": "ٱلْمُدَّثِّرِ",
+    "revelation_place": "makkah",
+    "revelation_order": 4,
+    "verses_count": 56,
+    "pages_count": 3
+  },
+  "75": {
+    "chapter_number": 75,
+    "name_arabic": "ٱلْقِيَـٰمَةِ",
+    "revelation_place": "makkah",
+    "revelation_order": 31,
+    "verses_count": 40,
+    "pages_count": 2
+  },
+  "76": {
+    "chapter_number": 76,
+    "name_arabic": "ٱلْإِنسَـٰنِ",
+    "revelation_place": "madinah",
+    "revelation_order": 98,
+    "verses_count": 31,
+    "pages_count": 3
+  },
+  "77": {
+    "chapter_number": 77,
+    "name_arabic": "ٱلْمُرْسَلَـٰتِ",
+    "revelation_place": "makkah",
+    "revelation_order": 33,
+    "verses_count": 50,
+    "pages_count": 2
+  },
+  "78": {
+    "chapter_number": 78,
+    "name_arabic": "ٱلنَّبَإِ",
+    "revelation_place": "makkah",
+    "revelation_order": 80,
+    "verses_count": 40,
+    "pages_count": 2
+  },
+  "79": {
+    "chapter_number": 79,
+    "name_arabic": "ٱلنَّـٰزِعَـٰتِ",
+    "revelation_place": "makkah",
+    "revelation_order": 81,
+    "verses_count": 46,
+    "pages_count": 2
+  },
+  "80": {
+    "chapter_number": 80,
+    "name_arabic": "عَبَسَ",
+    "revelation_place": "makkah",
+    "revelation_order": 24,
+    "verses_count": 42,
+    "pages_count": 1
+  },
+  "81": {
+    "chapter_number": 81,
+    "name_arabic": "ٱلتَّكْوِيرِ",
+    "revelation_place": "makkah",
+    "revelation_order": 7,
+    "verses_count": 29,
+    "pages_count": 1
+  },
+  "82": {
+    "chapter_number": 82,
+    "name_arabic": "ٱلْانْفِطَارِ",
+    "revelation_place": "makkah",
+    "revelation_order": 82,
+    "verses_count": 19,
+    "pages_count": 1
+  },
+  "83": {
+    "chapter_number": 83,
+    "name_arabic": "ٱلْمُطَفِّفِينَ",
+    "revelation_place": "makkah",
+    "revelation_order": 86,
+    "verses_count": 36,
+    "pages_count": 3
+  },
+  "84": {
+    "chapter_number": 84,
+    "name_arabic": "ٱلْانْشِقَاقِ",
+    "revelation_place": "makkah",
+    "revelation_order": 83,
+    "verses_count": 25,
+    "pages_count": 1
+  },
+  "85": {
+    "chapter_number": 85,
+    "name_arabic": "ٱلْبُرُوجِ",
+    "revelation_place": "makkah",
+    "revelation_order": 27,
+    "verses_count": 22,
+    "pages_count": 1
+  },
+  "86": {
+    "chapter_number": 86,
+    "name_arabic": "ٱلطَّارِقِ",
+    "revelation_place": "makkah",
+    "revelation_order": 36,
+    "verses_count": 17,
+    "pages_count": 1
+  },
+  "87": {
+    "chapter_number": 87,
+    "name_arabic": "ٱلْأَعْلَى",
+    "revelation_place": "makkah",
+    "revelation_order": 8,
+    "verses_count": 19,
+    "pages_count": 2
+  },
+  "88": {
+    "chapter_number": 88,
+    "name_arabic": "ٱلْغَـٰشِيَةِ",
+    "revelation_place": "makkah",
+    "revelation_order": 68,
+    "verses_count": 26,
+    "pages_count": 1
+  },
+  "89": {
+    "chapter_number": 89,
+    "name_arabic": "ٱلْفَجْرِ",
+    "revelation_place": "makkah",
+    "revelation_order": 10,
+    "verses_count": 30,
+    "pages_count": 2
+  },
+  "90": {
+    "chapter_number": 90,
+    "name_arabic": "ٱلْبَلَدِ",
+    "revelation_place": "makkah",
+    "revelation_order": 35,
+    "verses_count": 20,
+    "pages_count": 1
+  },
+  "91": {
+    "chapter_number": 91,
+    "name_arabic": "ٱلشَّمْسِ",
+    "revelation_place": "makkah",
+    "revelation_order": 26,
+    "verses_count": 15,
+    "pages_count": 1
+  },
+  "92": {
+    "chapter_number": 92,
+    "name_arabic": "ٱلَّيْلِ",
+    "revelation_place": "makkah",
+    "revelation_order": 9,
+    "verses_count": 21,
+    "pages_count": 2
+  },
+  "93": {
+    "chapter_number": 93,
+    "name_arabic": "ٱلضُّحَىٰ",
+    "revelation_place": "makkah",
+    "revelation_order": 11,
+    "verses_count": 11,
+    "pages_count": 1
+  },
+  "94": {
+    "chapter_number": 94,
+    "name_arabic": "ٱلشَّرْحِ",
+    "revelation_place": "makkah",
+    "revelation_order": 12,
+    "verses_count": 8,
+    "pages_count": 1
+  },
+  "95": {
+    "chapter_number": 95,
+    "name_arabic": "ٱلتِّينِ",
+    "revelation_place": "makkah",
+    "revelation_order": 28,
+    "verses_count": 8,
+    "pages_count": 1
+  },
+  "96": {
+    "chapter_number": 96,
+    "name_arabic": "ٱلْعَلَقِ",
+    "revelation_place": "makkah",
+    "revelation_order": 1,
+    "verses_count": 19,
+    "pages_count": 1
+  },
+  "97": {
+    "chapter_number": 97,
+    "name_arabic": "ٱلْقَدْرِ",
+    "revelation_place": "makkah",
+    "revelation_order": 25,
+    "verses_count": 5,
+    "pages_count": 1
+  },
+  "98": {
+    "chapter_number": 98,
+    "name_arabic": "ٱلْبَيِّنَةِ",
+    "revelation_place": "madinah",
+    "revelation_order": 100,
+    "verses_count": 8,
+    "pages_count": 2
+  },
+  "99": {
+    "chapter_number": 99,
+    "name_arabic": "ٱلزَّلْزَلَةِ",
+    "revelation_place": "madinah",
+    "revelation_order": 93,
+    "verses_count": 8,
+    "pages_count": 1
+  },
+  "100": {
+    "chapter_number": 100,
+    "name_arabic": "ٱلْعَـٰدِيَـٰتِ",
+    "revelation_place": "makkah",
+    "revelation_order": 14,
+    "verses_count": 11,
+    "pages_count": 2
+  },
+  "101": {
+    "chapter_number": 101,
+    "name_arabic": "ٱلْقَارِعَةِ",
+    "revelation_place": "makkah",
+    "revelation_order": 30,
+    "verses_count": 11,
+    "pages_count": 1
+  },
+  "102": {
+    "chapter_number": 102,
+    "name_arabic": "ٱلتَّكَاثُرِ",
+    "revelation_place": "makkah",
+    "revelation_order": 16,
+    "verses_count": 8,
+    "pages_count": 1
+  },
+  "103": {
+    "chapter_number": 103,
+    "name_arabic": "ٱلْعَصْرِ",
+    "revelation_place": "makkah",
+    "revelation_order": 13,
+    "verses_count": 3,
+    "pages_count": 1
+  },
+  "104": {
+    "chapter_number": 104,
+    "name_arabic": "ٱلْهُمَزَةِ",
+    "revelation_place": "makkah",
+    "revelation_order": 32,
+    "verses_count": 9,
+    "pages_count": 1
+  },
+  "105": {
+    "chapter_number": 105,
+    "name_arabic": "ٱلْفِيلِ",
+    "revelation_place": "makkah",
+    "revelation_order": 19,
+    "verses_count": 5,
+    "pages_count": 1
+  },
+  "106": {
+    "chapter_number": 106,
+    "name_arabic": "قُرَيْشٍ",
+    "revelation_place": "makkah",
+    "revelation_order": 29,
+    "verses_count": 4,
+    "pages_count": 1
+  },
+  "107": {
+    "chapter_number": 107,
+    "name_arabic": "ٱلْمَاعُونِ",
+    "revelation_place": "makkah",
+    "revelation_order": 17,
+    "verses_count": 7,
+    "pages_count": 1
+  },
+  "108": {
+    "chapter_number": 108,
+    "name_arabic": "ٱلْكَوْثَرِ",
+    "revelation_place": "makkah",
+    "revelation_order": 15,
+    "verses_count": 3,
+    "pages_count": 1
+  },
+  "109": {
+    "chapter_number": 109,
+    "name_arabic": "ٱلْكَـٰفِرُونَ",
+    "revelation_place": "makkah",
+    "revelation_order": 18,
+    "verses_count": 6,
+    "pages_count": 1
+  },
+  "110": {
+    "chapter_number": 110,
+    "name_arabic": "ٱلنَّصْرِ",
+    "revelation_place": "madinah",
+    "revelation_order": 114,
+    "verses_count": 3,
+    "pages_count": 1
+  },
+  "111": {
+    "chapter_number": 111,
+    "name_arabic": "ٱلْمَسَدِ",
+    "revelation_place": "makkah",
+    "revelation_order": 6,
+    "verses_count": 5,
+    "pages_count": 1
+  },
+  "112": {
+    "chapter_number": 112,
+    "name_arabic": "ٱلْإِخْلَاصِ",
+    "revelation_place": "makkah",
+    "revelation_order": 22,
+    "verses_count": 4,
+    "pages_count": 1
+  },
+  "113": {
+    "chapter_number": 113,
+    "name_arabic": "ٱلْفَلَقِ",
+    "revelation_place": "makkah",
+    "revelation_order": 20,
+    "verses_count": 5,
+    "pages_count": 1
+  },
+  "114": {
+    "chapter_number": 114,
+    "name_arabic": "ٱلنَّاسِ",
+    "revelation_place": "makkah",
+    "revelation_order": 21,
+    "verses_count": 6,
+    "pages_count": 1
+  }
+}

@@ -1,0 +1,40 @@
+<instruction_type>
+ANALISIS AYAT LANJUTAN DALAM SESSION
+Ini BUKAN ayat pertama - Section 1 (pengenalan surah) sudah dihasilkan sebelumnya.
+Anda HANYA menghasilkan SECTION 2: Analisis Ayat (3-5 paragraf seperti di guide).
+</instruction_type>
+
+<previous_context>
+RINGKASAN AYAT SEBELUMNYA:
+{previous_verses_summary}
+</previous_context>
+
+<munasabat_emphasis>
+PENTING - HUBUNGAN ANTAR AYAT (Munasabat):
+Karena ini ayat lanjutan, WAJIB jelaskan di paragraf pertama:
+- Bagaimana ayat ini terhubung dengan ayat sebelumnya?
+- Apakah melanjutkan tema, membuat kontras, atau transisi?
+- Bagaimana root repetitions membangun benang merah?
+</munasabat_emphasis>
+
+<language>
+Tulis SELURUH analisis dalam Bahasa Indonesia.
+Untuk pembaca umum tanpa latar belakang bahasa Arab atau linguistik.
+</language>
+
+<balaghah_analysis_guide>
+{BALAGHAH_GUIDE}
+</balaghah_analysis_guide>
+
+<output_format>
+FORMAT OUTPUT UNTUK TELEGRAM:
+- Gunakan **teks** untuk bold (judul ayat, istilah penting)
+- Gunakan *teks* untuk italic
+- JANGAN gunakan ### atau ## untuk header
+- JANGAN gunakan bullet points berlebihan
+- Tulis dalam paragraf mengalir yang mudah dibaca di chat
+</output_format>
+
+<final_instruction>
+Ikuti panduan Section 2 di atas dengan TEPAT. Hasilkan HANYA analisis ayat (3-5 paragraf) dengan penekanan pada koneksi ke ayat sebelumnya.
+</final_instruction>
